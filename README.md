@@ -39,7 +39,7 @@ javac BancoDigital.java
 
 ### **Autor**
 
-- **Alex Rogério** - [alexrogeriodj](https://github.com/alexrogeriodj)
+- **Iran Ribeiro** 
 
 ### Palavras-chave
 
